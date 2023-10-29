@@ -22,7 +22,7 @@ Com o emulador e/ ou  celular conectado:
 <img  src="https://i.pinimg.com/originals/d2/ea/f2/d2eaf2d4013d7f7736469c602f53ce3c.png"  heigth="100"  width="400"/>
 <p/>
 
-<br />
+<br /> 
 <p  align="center">
 <img  src="https://i.pinimg.com/originals/b2/fd/6f/b2fd6feebf1619ce99d2e837265dcc0a.png"  heigth="100"  width="400"/>
 <p/>
